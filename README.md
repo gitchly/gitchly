@@ -1,4 +1,6 @@
-## Hi there 👋
+Click the button below to visit my personal website!
+
+ <a href="https://glitch.gay/"><img src="https://glitch.gay/img/88x31/glitch.gay.2.gif" width="88" height="31" alt="glitchy's" /></a>
 
 <!--
 **gitchly/gitchly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
